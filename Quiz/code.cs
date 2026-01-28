@@ -4,7 +4,7 @@ using System.IO;
 
 namespace OnlineQuizSystem
 {
-    // Question class
+    // Question class 
     class Question
     {
         public string QuestionText { get; set; }
