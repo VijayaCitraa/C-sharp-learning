@@ -47,8 +47,6 @@ namespace OnlineQuizSystem
             return new Question(parts[0], new string[] { parts[1], parts[2], parts[3], parts[4] }, parts[5][0]);
         }
     }
-
-    // Quiz class
     class Quiz
     {
         public List<Question> Questions { get; set; } = new List<Question>();
