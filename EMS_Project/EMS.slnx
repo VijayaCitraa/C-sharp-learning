@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../ems wcf/ems wcf.csproj" Id="32cea607-ee8d-4e0d-92b7-509e79ef11e6" />
+  <Project Path="EMS.csproj" />
+</Solution>
